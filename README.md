@@ -2,7 +2,7 @@
 ### An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend.
 #### A community-funded project from [DailyDrip](https://www.dailydrip.com).
 
-[![CircleCI](https://circleci.com/gh/circleci/firestorm.svg?style=svg)](https://circleci.com/gh/circleci/firestorm)
+[![CircleCI](https://circleci.com/gh/CircleCI-Public/firestorm.svg?style=svg)](https://circleci.com/gh/CircleCI-Public/firestorm)
 
 [![Deps Status](https://beta.hexfaktor.org/badge/all/github/dailydrip/firestorm.svg)](https://beta.hexfaktor.org/github/dailydrip/firestorm)
 
